@@ -22,6 +22,9 @@
 		8DBC00661815E77300A91942 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8DBC00451815E77300A91942 /* UIKit.framework */; };
 		8DBC006E1815E77300A91942 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8DBC006C1815E77300A91942 /* InfoPlist.strings */; };
 		8DBC00701815E77300A91942 /* ScrollExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8DBC006F1815E77300A91942 /* ScrollExampleTests.m */; };
+		8DBC007B1815EAFD00A91942 /* iguana_blur.png in Resources */ = {isa = PBXBuildFile; fileRef = 8DBC00791815EAFD00A91942 /* iguana_blur.png */; };
+		8DBC007C1815EAFD00A91942 /* iguana.png in Resources */ = {isa = PBXBuildFile; fileRef = 8DBC007A1815EAFD00A91942 /* iguana.png */; };
+		8DBC007E1815EBEB00A91942 /* horizontal_gradient_bottom@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8DBC007D1815EBEB00A91942 /* horizontal_gradient_bottom@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +58,9 @@
 		8DBC006B1815E77300A91942 /* ScrollExampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ScrollExampleTests-Info.plist"; sourceTree = "<group>"; };
 		8DBC006D1815E77300A91942 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		8DBC006F1815E77300A91942 /* ScrollExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ScrollExampleTests.m; sourceTree = "<group>"; };
+		8DBC00791815EAFD00A91942 /* iguana_blur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iguana_blur.png; sourceTree = "<group>"; };
+		8DBC007A1815EAFD00A91942 /* iguana.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iguana.png; sourceTree = "<group>"; };
+		8DBC007D1815EBEB00A91942 /* horizontal_gradient_bottom@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "horizontal_gradient_bottom@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +127,9 @@
 				8DBC00591815E77300A91942 /* YSViewController.h */,
 				8DBC005A1815E77300A91942 /* YSViewController.m */,
 				8DBC005C1815E77300A91942 /* Images.xcassets */,
+				8DBC00791815EAFD00A91942 /* iguana_blur.png */,
+				8DBC007A1815EAFD00A91942 /* iguana.png */,
+				8DBC007D1815EBEB00A91942 /* horizontal_gradient_bottom@2x.png */,
 				8DBC00481815E77300A91942 /* Supporting Files */,
 			);
 			path = ScrollExample;
@@ -235,6 +244,9 @@
 				8DBC00581815E77300A91942 /* Main_iPad.storyboard in Resources */,
 				8DBC005D1815E77300A91942 /* Images.xcassets in Resources */,
 				8DBC00551815E77300A91942 /* Main_iPhone.storyboard in Resources */,
+				8DBC007E1815EBEB00A91942 /* horizontal_gradient_bottom@2x.png in Resources */,
+				8DBC007B1815EAFD00A91942 /* iguana_blur.png in Resources */,
+				8DBC007C1815EAFD00A91942 /* iguana.png in Resources */,
 				8DBC004C1815E77300A91942 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
